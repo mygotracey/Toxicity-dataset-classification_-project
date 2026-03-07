@@ -76,6 +76,7 @@ Install required libraries
 Run the Jupyter Notebook or Python script step by step
 
 pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn
+
 Author
 
 Tracey Muthoni
